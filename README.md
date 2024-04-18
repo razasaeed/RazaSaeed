@@ -11,12 +11,14 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Certainly! Here’s a tailored "About Me" section similar to the example you provided:
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+I am Muhammad Raza Saeed, a Mobile Apps Engineer from Pakistan.
+
+🔭 I'm dedicated to Android and iOS development, with over 7 years of experience in crafting dynamic mobile applications.
+🌱 I’m also passionate about sharing my knowledge through my YouTube channel and insightful articles on Medium.
+⚡ In my free time, I contribute to open-source projects on GitHub and explore new tech trends.
+📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/razasaeed246/)
 
 ---
 
